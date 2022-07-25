@@ -1,0 +1,52 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+}
+
+.logo{
+    width: 10rem;
+    height: 3rem;
+}
+
+.header-menu{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    color: white;
+    
+}
+.header-menu>li{
+    border: 2px solid transparent;
+    padding: 0.2rem 0.4rem;
+}
+ 
+.header-menu>li:hover{
+    color: white;
+    cursor: pointer;
+    border: 2px solid var(--orange);
+    padding: 0.2rem 0.4rem;
+}
+@media screen and (max-width: 768px){
+    .header>:nth-child(2){
+        position: fixed;
+        right: 2rem;
+        z-index: 99;
+    }
+
+    .header-menu{
+        flex-direction: column;
+        background-color: var(--appColor);
+        padding: 2rem;
+    }
+    .menu-bar-bkg{
+        background-color: var(--appColor);
+        padding: 0.5rem;
+        border-radius: 0.5rem;
+    }
+    .menu-bars-logo{
+        width: 1.5rem;
+        height: 1.5rem;
+        object-fit: cover;
+    }
+}
