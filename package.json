@@ -1,5 +1,5 @@
 {
-  "name": "the-fit-club",
+  "name": "the-club",
   "version": "1.0.0",
   "private": false,
   "keywords": [
@@ -9,7 +9,7 @@
   ],
   "author": "Dmytro Kotliar",
   "license": "ISC",
-  "homepage": "https://yardnight.github.io/the-fit-club",
+  "homepage": "https://yardnight.github.io/the-club",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.16.4",
