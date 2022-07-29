@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/the-club/static/css/main.4ec9679e.css",
-    "main.js": "/the-club/static/js/main.bdcf9676.js",
+    "main.css": "/the-club/static/css/main.fc388b7a.css",
+    "main.js": "/the-club/static/js/main.e2e9fbf2.js",
     "static/media/hero_image.png": "/the-club/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/the-club/static/media/t-image1.c16c2c261034cf78ee57.png",
     "static/media/image1.png": "/the-club/static/media/image1.1091417d32e491f0bbb6.png",
@@ -12,11 +12,11 @@
     "static/media/t-image2.jpg": "/the-club/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
     "static/media/hero_image_back.png": "/the-club/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/the-club/index.html",
-    "main.4ec9679e.css.map": "/the-club/static/css/main.4ec9679e.css.map",
-    "main.bdcf9676.js.map": "/the-club/static/js/main.bdcf9676.js.map"
+    "main.fc388b7a.css.map": "/the-club/static/css/main.fc388b7a.css.map",
+    "main.e2e9fbf2.js.map": "/the-club/static/js/main.e2e9fbf2.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ec9679e.css",
-    "static/js/main.bdcf9676.js"
+    "static/css/main.fc388b7a.css",
+    "static/js/main.e2e9fbf2.js"
   ]
 }
