@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/the-club/static/css/main.b2a520af.css",
+    "main.css": "/the-club/static/css/main.e0b909bb.css",
     "main.js": "/the-club/static/js/main.e2e9fbf2.js",
     "static/media/hero_image.png": "/the-club/static/media/hero_image.e19ac0c6b1009c7280f5.png",
     "static/media/t-image1.png": "/the-club/static/media/t-image1.c16c2c261034cf78ee57.png",
@@ -12,11 +12,11 @@
     "static/media/t-image2.jpg": "/the-club/static/media/t-image2.f5d2e52e514c544dfffb.jpg",
     "static/media/hero_image_back.png": "/the-club/static/media/hero_image_back.9f54bfba33048f4ca688.png",
     "index.html": "/the-club/index.html",
-    "main.b2a520af.css.map": "/the-club/static/css/main.b2a520af.css.map",
+    "main.e0b909bb.css.map": "/the-club/static/css/main.e0b909bb.css.map",
     "main.e2e9fbf2.js.map": "/the-club/static/js/main.e2e9fbf2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2a520af.css",
+    "static/css/main.e0b909bb.css",
     "static/js/main.e2e9fbf2.js"
   ]
 }
